@@ -8,6 +8,28 @@
 | [雨夜便利店](雨夜便利店.html) | 便利店街角、店内货架、降雨与积水反光 |
 | [木漏时光](木漏时光.html) | 木制布谷钟、水车、机关、分层流水与夕阳 |
 
+## 作品预览
+
+以下为三个场景在浏览器中的实际运行截图。
+
+### 海风之屿
+
+![海风之屿：木屋、灯塔与码头环绕的海岛微缩场景](docs/screenshots/island.png)
+
+### 雨夜便利店
+
+![雨夜便利店：暖光店内与雨夜街角的微缩场景](docs/screenshots/rainy-convenience-store.png)
+
+### 木漏时光
+
+![木漏时光：夕阳下的木制布谷钟与水车工坊](docs/screenshots/komorebi-clock.png)
+
+## 分享与下载
+
+- 项目主页：[gpt6-Astra_3.js](https://github.com/XinyuWang250428/gpt6-Astra_3.js)
+- 下载全部作品：[main 分支 ZIP](https://github.com/XinyuWang250428/gpt6-Astra_3.js/archive/refs/heads/main.zip)
+- 在线演示：目前未启用 GitHub Pages；下方提供本地运行方法。
+
 ## 运行
 
 下载仓库 ZIP 并解压，用支持 WebGL 2 的现代浏览器打开对应 HTML。GitHub 文件页面展示源代码，需下载到本地运行。
@@ -25,3 +47,4 @@
 ## 依赖说明
 
 HTML 中保留了 Three.js 作者的版权声明。Three.js 与 OrbitControls 的 MIT 许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。该第三方许可不自动扩大为本项目原创场景的授权声明。
+
