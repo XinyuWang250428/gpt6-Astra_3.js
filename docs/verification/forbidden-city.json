@@ -1,0 +1,157 @@
+{
+  "before": {
+    "invalid": 0,
+    "outside": 0,
+    "belowSurface": 0,
+    "particles": 8200,
+    "snowStats": {
+      "surfaceHits": 349,
+      "waterHits": 3,
+      "iceHits": 0,
+      "boundaryTurns": 1,
+      "respawns": 8200,
+      "sideHits": 585,
+      "rebounds": 312,
+      "lifted": 0,
+      "simulationMs": 41.70000001788139,
+      "substeps": 2,
+      "integratedSeconds": 0.5567000000000006,
+      "wallSeconds": 1.7459000000000007
+    },
+    "roofColliders": 8,
+    "bridgeCount": 5,
+    "baseBays": 4,
+    "errors": [],
+    "stats": {
+      "fps": 0.47591852274688035,
+      "cpuMs": 5.199999988079071,
+      "drawCalls": 976,
+      "triangles": 2494016
+    },
+    "camera": [
+      21.537876254521464,
+      21.11111559389175,
+      38.76817725813865
+    ],
+    "target": [
+      0,
+      5.55,
+      0
+    ],
+    "time": 1.7459000000000007,
+    "frames": 14
+  },
+  "after": {
+    "audit": {
+      "invalid": 0,
+      "outside": 0,
+      "belowSurface": 0,
+      "particles": 8200,
+      "snowStats": {
+        "surfaceHits": 12642,
+        "waterHits": 213,
+        "iceHits": 49,
+        "boundaryTurns": 564,
+        "respawns": 8200,
+        "sideHits": 61303,
+        "rebounds": 8660,
+        "lifted": 3290,
+        "simulationMs": 37.400000005960464,
+        "substeps": 2,
+        "integratedSeconds": 4.602600000000002,
+        "wallSeconds": 5.7918000000000065
+      },
+      "roofColliders": 8,
+      "bridgeCount": 5,
+      "baseBays": 4,
+      "errors": [],
+      "stats": {
+        "fps": 36.620455139942436,
+        "cpuMs": 6.9000000059604645,
+        "drawCalls": 974,
+        "triangles": 2493920
+      },
+      "camera": [
+        21.537876254521464,
+        21.11111559389175,
+        38.76817725813865
+      ],
+      "target": [
+        0,
+        5.55,
+        0
+      ],
+      "time": 5.7918000000000065,
+      "frames": 183
+    },
+    "interaction": {
+      "activeGusts": 2,
+      "windEnergy": 1.174474127382027,
+      "clicks": 2,
+      "strength": 1.1635760294213264,
+      "upward": 3940,
+      "settled": 538,
+      "lastPeakUpward": 4647,
+      "elapsedSinceStir": 2.5127000000000024,
+      "particleCount": 8200,
+      "dragCount": 0,
+      "handWind": 0,
+      "power": 1,
+      "maxSpeed": 4.124363499470659,
+      "quaternionError": 4.440892098500626e-16,
+      "types": [
+        {
+          "name": "六枝树枝晶",
+          "count": 1148,
+          "settled": 54,
+          "meanDownwardSpeed": -0.38178381795639366
+        },
+        {
+          "name": "六角薄板晶",
+          "count": 984,
+          "settled": 70,
+          "meanDownwardSpeed": -0.3608164157391285
+        },
+        {
+          "name": "蕨枝星晶",
+          "count": 738,
+          "settled": 29,
+          "meanDownwardSpeed": -0.30479655373319736
+        },
+        {
+          "name": "针状晶束",
+          "count": 820,
+          "settled": 78,
+          "meanDownwardSpeed": -0.4149771425039112
+        },
+        {
+          "name": "短柱冰晶",
+          "count": 574,
+          "settled": 59,
+          "meanDownwardSpeed": -0.351561033464822
+        },
+        {
+          "name": "松软团絮",
+          "count": 2214,
+          "settled": 150,
+          "meanDownwardSpeed": -0.1888559363915382
+        },
+        {
+          "name": "不规则碎冰",
+          "count": 738,
+          "settled": 55,
+          "meanDownwardSpeed": -0.4093576632511097
+        },
+        {
+          "name": "细雪粉",
+          "count": 984,
+          "settled": 43,
+          "meanDownwardSpeed": -0.1286025428971466
+        }
+      ],
+      "respawnsAfterInitialization": 0,
+      "rendering": "8200 solid 3D crystals without halo overlays, inertial pulsed multi-vortex flow"
+    }
+  },
+  "errors": []
+}

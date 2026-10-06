@@ -1,6 +1,6 @@
 # gpt6-Astra_3.js
 
-三个使用 Three.js 制作的可交互微缩场景，均为独立 HTML 文件。Three.js r169 与 OrbitControls 已内联，无需安装 npm 依赖。
+四个使用 Three.js 制作的可交互微缩场景，均为独立 HTML 文件。Three.js r169 与 OrbitControls 已内联，无需安装 npm 依赖。
 
 | 作品 | 场景 |
 | --- | --- |
@@ -8,9 +8,11 @@
 | [雨夜便利店](雨夜便利店.html) | 便利店街角、店内货架、降雨与积水反光 |
 | [木漏时光](木漏时光.html) | 木制布谷钟、水车、机关、分层流水与夕阳 |
 
+| [北京故宫雪景水晶球](北京故宫雪景水晶球.html) | 故宫意象、空中楼阁、玻璃折射与可交互风雪 |
+
 ## 作品预览
 
-以下为三个场景在浏览器中的实际运行截图。
+以下为四个场景在浏览器中的实际运行截图。
 
 ### 海风之屿
 
@@ -23,6 +25,14 @@
 ### 木漏时光
 
 ![木漏时光：夕阳下的木制布谷钟与水车工坊](docs/screenshots/komorebi-clock.png)
+
+### 北京故宫雪景水晶球
+
+![北京故宫雪景水晶球实际运行画面](docs/screenshots/forbidden-city-globe.png)
+
+故宫意象的幻想微缩场景，包含 8200 片八类实体雪晶。点击底座“起风”可扬雪，连点叠加阵风，拖动球壳可扰动雪。
+
+[制作与修改教程](docs/forbidden-city-tutorial.md) · [场景说明](docs/forbidden-city-scene.md)
 
 ## 分享与下载
 
